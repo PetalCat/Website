@@ -1,0 +1,17 @@
+body {
+	font-family: TimeBurner Bold, sans-serif;
+}
+@font-face {
+    font-family: 'TimeBurner Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('TimeBurner Regular'), url('timeburnernormal.woff') format('woff');
+    }
+    
+
+@font-face {
+    font-family: 'TimeBurner Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('TimeBurner Bold'), url('timeburnerbold.woff') format('woff');
+    }
